@@ -1,10 +1,7 @@
-Esse repositório foi criado para a série de vídeos de análise de dados do canal [Programação Dinâmica](http://youtube.com/programacaodinamica).
+
 
 ### [Análise de dados #1 | Você sabe extrair informações de dados?](https://youtu.be/RlGOaSPFtXc)
 
-Dado? Informação? É tudo a mesma coisa?
-
-Na estreia da série de análise de dados em Python, a Kizzy apresenta os conceitos iniciais, apresenta sites em que se pode encontrar dados abertos e mostra o conjunto de dados escolhido para as análises nos próximos vídeos: os Microdados do ENEM.
 
 Links mencionados no vídeo:
 * Microdados ENEM - [http://portal.inep.gov.br/microdados](http://portal.inep.gov.br/microdados)
